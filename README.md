@@ -1,6 +1,6 @@
-### Hi there 👋
-<h1 align="center">𝓗𝓲, 𝓘'𝓶 𝓝𝓪𝓽𝓪𝓵𝓲𝓪<img src="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc" height="32"/></h1>
-
+<div id = "header" align="center">
+𝓗𝓲, 𝓘'𝓶 𝓝𝓪𝓽𝓪𝓵𝓲𝓪<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ2MW1jNmpqbmEzcThydHhnOG5maGI2b240ZGdlMzdqbDRmajVtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/76Ezod7CxRDqivd57V/giphy.gif" height="50vh"/>
+</div>
 <!--
 **Natal1a-Chuklina/Natal1a-Chuklina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

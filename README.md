@@ -1,4 +1,5 @@
 ### Hi there 👋
+<h1 align="center">𝓗𝓲, 𝓘'𝓶 𝓝𝓪𝓽𝓪𝓵𝓲𝓪<img src="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc" height="32"/></h1>
 
 <!--
 **Natal1a-Chuklina/Natal1a-Chuklina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,6 +6,8 @@
 <div id="header" align="center" href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&height=45&lines=%F0%9D%99%85%F0%9D%99%96%F0%9D%99%AB%F0%9D%99%96+%F0%9D%99%99%F0%9D%99%9A%F0%9D%99%AB%F0%9D%99%9A%F0%9D%99%A1%F0%9D%99%A4%F0%9D%99%A5%F0%9D%99%9A%F0%9D%99%A7+%F0%9D%99%9B%F0%9D%99%A7%F0%9D%99%A4%F0%9D%99%A2+%F0%9D%99%89%F0%9D%99%A4%F0%9D%99%AB%F0%9D%99%A4%F0%9D%99%A8%F0%9D%99%9E%F0%9D%99%97%F0%9D%99%9E%F0%9D%99%A7%F0%9D%99%A8%F0%9D%99%A0" alt="Typing SVG" /></div>
 
 ### 👨‍💻 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚
+- 🔎 𝘐'𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘰𝘰𝘬𝘪𝘯𝘨 𝘧𝘰𝘳 𝘢 𝘫𝘰𝘣
+- 🚀 𝘐𝘯 𝘮𝘺 𝘧𝘳𝘦𝘦 𝘵𝘪𝘮𝘦, 𝘐 𝘴𝘰𝘭𝘷𝘦 𝘢𝘭𝘨𝘰𝘳𝘪𝘵𝘩𝘮𝘪𝘤 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴
 - 📄 𝘔𝘰𝘳𝘦 𝘪𝘯𝘧𝘰𝘳𝘮𝘢𝘵𝘪𝘰𝘯 𝘪𝘯 𝘮𝘺 [𝘊𝘝](https://novosibirsk.hh.ru/applicant/resumes/view?resume=0cc10fd7ff0be9e3a10039ed1f39727a6c3051)
 - 📬 𝘙𝘦𝘢𝘤𝘩 𝘮𝘦 𝘣𝘺 [𝘛𝘦𝘭𝘦𝘨𝘳𝘢𝘮](https://t.me/Natalia_Chuklina), [𝘦𝘮𝘢𝘪𝘭](natal1a.chuklina@yandex.ru)
 

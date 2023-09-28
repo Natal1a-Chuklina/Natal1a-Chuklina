@@ -1,8 +1,9 @@
-<div id = "header" align="center">
-𝓗𝓲, 𝓘'𝓶 𝓝𝓪𝓽𝓪𝓵𝓲𝓪<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ2MW1jNmpqbmEzcThydHhnOG5maGI2b240ZGdlMzdqbDRmajVtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/76Ezod7CxRDqivd57V/giphy.gif" height="50vh"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGR0c3cybmRoM2h4bG0xOGJmZDBpZmgyNWswOHNhdG5vdjhzYjI3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mQVGgQvPdjYc45XAXo/giphy.gif" width="120"/>
 </div>
+<h1 align="center">𝓗𝓲, 𝓘'𝓶 𝓝𝓪𝓽𝓪𝓵𝓲𝓪</h1>
+
 <!--
-**Natal1a-Chuklina/Natal1a-Chuklina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

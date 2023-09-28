@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGR0c3cybmRoM2h4bG0xOGJmZDBpZmgyNWswOHNhdG5vdjhzYjI3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mQVGgQvPdjYc45XAXo/giphy.gif" width="120"/>
 </div>
-<h1 align="center" style="color:purple;">𝓗𝓲, 𝓘'𝓶 𝓝𝓪𝓽𝓪𝓵𝓲𝓪</h1>
+<h1 align="center" style="color:purple;">𝙃𝙞, 𝙄'𝙢 𝙉𝙖𝙩𝙖𝙡𝙞𝙖</h1>
 
-<div id="header" align="center" href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=%F0%9D%92%A5%F0%9D%92%B6%F0%9D%93%8B%F0%9D%92%B6+%F0%9D%92%B9%F0%9D%91%92%F0%9D%93%8B%F0%9D%91%92%F0%9D%93%81%F0%9D%91%9C%F0%9D%93%85%F0%9D%91%92%F0%9D%93%87+%F0%9D%92%BB%F0%9D%93%87%F0%9D%91%9C%F0%9D%93%82+%F0%9D%92%A9%F0%9D%91%9C%F0%9D%93%8B%F0%9D%91%9C%F0%9D%93%88%F0%9D%92%BE%F0%9D%92%B7%F0%9D%92%BE%F0%9D%93%87%F0%9D%93%88%F0%9D%93%80" alt="Typing SVG" /></div>
+<div id="header" align="center" href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&height=45&lines=%F0%9D%99%85%F0%9D%99%96%F0%9D%99%AB%F0%9D%99%96+%F0%9D%99%99%F0%9D%99%9A%F0%9D%99%AB%F0%9D%99%9A%F0%9D%99%A1%F0%9D%99%A4%F0%9D%99%A5%F0%9D%99%9A%F0%9D%99%A7+%F0%9D%99%9B%F0%9D%99%A7%F0%9D%99%A4%F0%9D%99%A2+%F0%9D%99%89%F0%9D%99%A4%F0%9D%99%AB%F0%9D%99%A4%F0%9D%99%A8%F0%9D%99%9E%F0%9D%99%97%F0%9D%99%9E%F0%9D%99%A7%F0%9D%99%A8%F0%9D%99%A0" alt="Typing SVG" /></div>
 
 <!--
 

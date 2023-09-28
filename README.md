@@ -3,6 +3,8 @@
 </div>
 <h1 align="center">𝓗𝓲, 𝓘'𝓶 𝓝𝓪𝓽𝓪𝓵𝓲𝓪</h1>
 
+<div id="header" align="center" href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=620&lines=%F0%9D%92%A5%F0%9D%92%B6%F0%9D%93%8B%F0%9D%92%B6+%F0%9D%92%B9%F0%9D%91%92%F0%9D%93%8B%F0%9D%91%92%F0%9D%93%81%F0%9D%91%9C%F0%9D%93%85%F0%9D%91%92%F0%9D%93%87+%F0%9D%92%BB%F0%9D%93%87%F0%9D%91%9C%F0%9D%93%82+%F0%9D%92%A9%F0%9D%91%9C%F0%9D%93%8B%F0%9D%91%9C%F0%9D%93%88%F0%9D%92%BE%F0%9D%92%B7%F0%9D%92%BE%F0%9D%93%87%F0%9D%93%88%F0%9D%93%80" alt="Typing SVG" /></div>
+
 <!--
 
 Here are some ideas to get you started:

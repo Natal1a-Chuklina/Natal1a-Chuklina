@@ -36,5 +36,5 @@
 
 ### 📈 𝙇𝙚𝙚𝙩𝘾𝙤𝙙𝙚 𝙨𝙩𝙖𝙩𝙨
 <div id="stat" align="center">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=Natalia&theme=dark">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=ncuklina85&theme=dark">
 </div>
